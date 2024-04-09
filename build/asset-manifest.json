@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ashwinipatel/static/css/main.8e47c54d.css",
-    "main.js": "/Ashwinipatel/static/js/main.39366a44.js",
-    "static/js/453.b9f91980.chunk.js": "/Ashwinipatel/static/js/453.b9f91980.chunk.js",
-    "index.html": "/Ashwinipatel/index.html",
-    "main.8e47c54d.css.map": "/Ashwinipatel/static/css/main.8e47c54d.css.map",
-    "main.39366a44.js.map": "/Ashwinipatel/static/js/main.39366a44.js.map",
-    "453.b9f91980.chunk.js.map": "/Ashwinipatel/static/js/453.b9f91980.chunk.js.map"
+    "main.css": "/Ashwinipatel12/2211cs010022.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Ashwinipatel12/2211cs010022.git/static/js/main.bf2ff4c5.js",
+    "static/js/453.2b44a68c.chunk.js": "/Ashwinipatel12/2211cs010022.git/static/js/453.2b44a68c.chunk.js",
+    "index.html": "/Ashwinipatel12/2211cs010022.git/index.html",
+    "main.e6c13ad2.css.map": "/Ashwinipatel12/2211cs010022.git/static/css/main.e6c13ad2.css.map",
+    "main.bf2ff4c5.js.map": "/Ashwinipatel12/2211cs010022.git/static/js/main.bf2ff4c5.js.map",
+    "453.2b44a68c.chunk.js.map": "/Ashwinipatel12/2211cs010022.git/static/js/453.2b44a68c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e47c54d.css",
-    "static/js/main.39366a44.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bf2ff4c5.js"
   ]
 }
